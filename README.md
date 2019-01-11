@@ -34,4 +34,4 @@ Dataset loading, vocabulary extraction and stemming process are heavily inspired
 
 * NLTK library : for loading the ModApte split of Reuters-21578 dataset, deleting stopwords, Porter's stemming process
 * NumPy : vector operations 
-*SciPy : use matrix sparse
+* SciPy : use matrix sparse
