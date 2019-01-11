@@ -1,5 +1,5 @@
 # Text-Classification-Reuters21578
-This exercise involves text classification of documents contained in the 10 most common categories in ModApte split of Reuters-21578 dataset learning by examples. 
+This exercise involves text classification of documents contained in the 6 most common categories in ModApte split of Reuters-21578 dataset learning by examples. 
 So,the categories considered are :
 * acq
 * crude
