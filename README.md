@@ -8,7 +8,7 @@ So,the categories considered are :
 * money-fx
 * trade
 
-The implemented and analyzed alghoritms are  :
+The implemented and analyzed alghoritm is  :
 * Perceptron
 
 
@@ -24,7 +24,7 @@ The exercise needs the following installed modules:
 * time 
 
 ## Instructions
-To run the program launch perceptron.py and then main.py. Setting of the max number of iterations to perform for each class.
+To run, set the max number of iterations for each class (6th cell, line 9), then launch all cells. 
 
 ## Credits
 
