@@ -33,5 +33,5 @@ Dataset loading, vocabulary extraction and stemming process are heavily inspired
 ## Third libraries and modules
 
 * NLTK library : for loading the ModApte split of Reuters-21578 dataset, deleting stopwords, Porter's stemming process
-* Scikit-learn : to calculate metrics ( precision-recall curves, f1 measure, break-even point)
 * NumPy : vector operations 
+*SciPy : use matrix sparse
